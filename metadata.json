@@ -1,0 +1,5 @@
+{
+  "name": "ArXiv Agent Flow",
+  "description": "A Tinder-style discovery app for AI Agent papers. Swipe right to like and refine recommendations, swipe left to pass. Features bilingual abstracts.",
+  "requestFramePermissions": []
+}
